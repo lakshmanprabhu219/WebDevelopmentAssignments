@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+	<CarDetails>
+	<Name>SubaruLegacy</Name>
+	<Category>Sedan</Category>
+	<Price>1.8 Crores</Price>
+	<Mileage>17.84 kmpl</Mileage>
+	<Seating>5</Seating>
+	<TransmissionType>Automatic</TransmissionType>
+	<Length>4956mm</Length>
+	<Width>1882mm</Width>
+	<Height>1459mm</Height>
+	<Doors>4</Doors>
+	<Image>https://i.pinimg.com/originals/ad/50/80/ad5080c9859d9019fc1983df0455e092.jpg</Image>
+	</CarDetails>

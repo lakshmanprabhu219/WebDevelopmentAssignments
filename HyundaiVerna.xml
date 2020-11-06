@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+	<CarDetails>
+	<Name>HyundaiVerna</Name>
+	<Category>Sedan</Category>
+	<Price>9.02 - 15.17 Lakhs</Price>
+	<Mileage>17.7 - 25.0 kmpl</Mileage>
+	<Seating>5</Seating>
+	<TransmissionType>Automatic</TransmissionType>
+	<Length>4440mm</Length>
+	<Width>1729mm</Width>
+	<Height>1475mm</Height>
+	<Doors>4</Doors>
+	<Image>https://www.motorbeam.com/wp-content/uploads/Hyundai-Verna-Diesel-Long-Term-Review.jpg</Image>
+	</CarDetails>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+	<CarDetails>
+	<Name>AudiA4</Name>
+	<Category>Sedan</Category>
+	<Price>41.49 - 46.96 Lakhs</Price>
+	<Mileage>17.84 kmpl</Mileage>
+	<Seating>4</Seating>
+	<TransmissionType>Automatic</TransmissionType>
+	<Length>4726mm</Length>
+	<Width>1842mm</Width>
+	<Height>1427mm</Height>
+	<Doors>4</Doors>
+	<Image>https://i.pinimg.com/736x/cc/c0/91/ccc091247c0923ceaefabbac22815ba6.jpg</Image>
+	</CarDetails>

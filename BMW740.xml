@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+	<CarDetails>
+	<Name>BMW740</Name>
+	<Category>Sedan</Category>
+	<Price>1.37 Crores</Price>
+	<Mileage>11.86 kmpl</Mileage>
+	<Seating>4</Seating>
+	<TransmissionType>Automatic</TransmissionType>
+	<Length>5238mm</Length>
+	<Width>2169mm</Width>
+	<Height>1485mm</Height>
+	<Doors>4</Doors>
+	<Image>https://o.aolcdn.com/images/dims3/GLOB/crop/1656x932+101+116/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2019/09/17171314/bmw-740-f34.jpg</Image>
+	</CarDetails>
